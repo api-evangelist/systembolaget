@@ -1,0 +1,32 @@
+aid: systembolaget
+name: Systembolaget
+description: "Govornment owned liqour store in Sweden"
+url: https://api-portal.systembolaget.se
+specificationVersion: '0.20'
+created: '2026-05-28'
+modified: '2026-05-28'
+x-source: public-apis/public-apis
+x-category: "Food & Drink"
+x-tier: 3
+x-tier-reason: bulk-registered-from-public-apis
+tags:
+  - Food And Drink
+  - Public APIs
+apis:
+  - name: Systembolaget
+    description: "Govornment owned liqour store in Sweden"
+    humanURL: https://api-portal.systembolaget.se
+    baseURL: https://api-portal.systembolaget.se
+    tags:
+      - Food And Drink
+    properties:
+      - type: Documentation
+        url: https://api-portal.systembolaget.se
+common:
+  - type: Website
+    url: https://api-portal.systembolaget.se
+  - type: PublicAPIsListing
+    url: https://github.com/public-apis/public-apis
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
