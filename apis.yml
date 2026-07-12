@@ -23,6 +23,8 @@ apis:
       - type: Documentation
         url: https://api-portal.systembolaget.se
 common:
+  - type: DomainSecurity
+    url: security/systembolaget-domain-security.yml
   - type: Website
     url: https://api-portal.systembolaget.se
   - type: PublicAPIsListing
