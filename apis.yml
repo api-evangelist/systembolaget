@@ -33,14 +33,18 @@ x-category: "Food & Drink"
 x-tier: 3
 x-tier-reason: bulk-registered-from-public-apis
 tags:
+  - Food and Beverage
+  - Public APIs
+tags_raw:
   - Food And Drink
   - Public APIs
 apis:
   - name: Systembolaget
     description: "Govornment owned liqour store in Sweden"
     humanURL: https://api-portal.systembolaget.se
-    baseURL: https://api-portal.systembolaget.se
     tags:
+      - Food and Beverage
+    tags_raw:
       - Food And Drink
     properties:
       - type: Documentation
